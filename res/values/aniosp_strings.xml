@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019-2022 Evolution X
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Caster -->
+    <string name="caster_dashboard_title">Caster</string>
+
+    <!-- About AniOSP -->
+    <string name="aniosp_about_title">The Team</string>
+    <string name="aniosp_about_summary">Information about our ROM</string>
+    <string name="aniosp_website_title">Website</string>
+    <string name="aniosp_website_summary">Feel free to drop by our website</string>
+    <string name="aniosp_telegram_title" translatable="false">Telegram</string>
+    <string name="aniosp_telegram_summary">Visit our community chat</string>
+    <string name="aniosp_github_title" translatable="false">GitHub</string>
+    <string name="aniosp_github_summary">Check out our GitHub</string>
+    <string name="aniosp_about_info_summary">AniOSP is a custom ROM that aims to bring the standard Pixel ROM to any device with tons of customisation options and the latest security patches</string>
+    <string name="aniosp_about_team">Contributors</string>
+    <string name="aniosp_about_relms" translatable="false">Daryl Ronningen (relms)</string>
+    <string name="aniosp_about_relms_summary" translatable="false">Lead Developer</string>
+</resources>
